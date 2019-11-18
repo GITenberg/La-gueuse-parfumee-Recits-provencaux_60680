@@ -1,5 +1,8 @@
 _repo: La-gueuse-parfumee-Recits-provencaux_60680
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60680-h/images/cover.jpg
 creator:
   author:
     agent_name: Arène, Paul
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Ar%C3%A8ne
     - https://fr.wikipedia.org/wiki/Paul_Ar%C3%A8ne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60680#La-gueuse-parfumee-Recits-provencaux
 gutenberg_issued: '2019-11-13'
 gutenberg_type: Text
 identifiers:
